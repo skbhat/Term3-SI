@@ -1,0 +1,8 @@
+prefix=/home/srikbha/SDC/Mine/CarND-Capstone-master/ros/install
+
+Name: styx_msgs
+Description: Description of styx_msgs
+Version: 0.0.0
+Cflags: -I/home/srikbha/SDC/Mine/CarND-Capstone-master/ros/install/include
+Libs: -L/home/srikbha/SDC/Mine/CarND-Capstone-master/ros/install/lib 
+Requires: 
